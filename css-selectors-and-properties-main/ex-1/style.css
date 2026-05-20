@@ -1,0 +1,18 @@
+.form-box {
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: fit-content;}
+input {
+    height: 50px;
+    width: 240px;
+    border-radius: 3px;}
+button {
+    width: 120px;
+    height: 36px;
+    background-color: lightgrey;}
+button:hover {
+    background-color: khaki;}
